@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://srushti-sambare.co.in/sitemap.xml
