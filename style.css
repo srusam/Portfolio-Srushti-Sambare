@@ -694,6 +694,7 @@ header {
 .icon.youtube { color: #ff0000; }    /* YouTube Red */
 .icon.hashnode { color: #2962ff; }   /* Hashnode Blue */
 .icon.researchgate { color: #00ccbb; } /* ResearchGate Teal */
+.icon.github {color: #181717; } /* GitHub Black */
 
 .icon {
   font-size: 2rem;
